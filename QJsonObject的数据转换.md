@@ -16,6 +16,4 @@
     qDebug() << json_object2.value(J_NICK).toString();
     qDebug() << json_object2.value(J_AGE).toInt();
     qDebug() << json_object2.value(J_ZHUANYE).toString();
-
-
 ```
